@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+#### 📇  CONTACT
+
+---
+
+**Jae Choi  (jae@chillin.dev)**
+Lighter, Compositor @ Icon Creative Studio + developer @ Home
++1 (778)-512-8493 (Canada)
+
+[Vimeo](https://vimeo.com/rakeid)  ||  [github](https://github.com/chillinjae)  ||  [linkedin](http://www.linkedin.com/in/rakeid)  ||  [portfolio](http://chillin.dev)  ||  [CV](https://docs.google.com/document/d/1JoSmCTyDUwq93f69fxHl_gZsQrbQ8UdSVFMt9h0149s/edit)  ||  [Instagram](https://www.instagram.com/jei8794/)  ||
 <!--
 **chillinjae/chillinjae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
