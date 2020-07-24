@@ -5,3 +5,4 @@
 - 💬 Ask me about anything via linkedin!
 - 📫 How to reach me: https://www.linkedin.com/in/rakeid/
 - ⚡ Fun fact: Actually.. I'm an Artist at work now 😅 
+- 👨🏻‍💻 SKILLSET : Python, Git, HTML, CSS, Vanilla Js, ExpressJs, Django(Learning) for Web Development / Basic Concepts of C and C++ / Basic Concepts of Machine Learning and Deep Learning (Learning)/ Familiar with Math and Physics / 
