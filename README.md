@@ -10,4 +10,4 @@
 
 - 🔑 KEYWORDS for interests : Creative coding, Interactive Development and Computational Design
 
-- 📝 BLOG : https://chillinjae.github.io
+- 📝 BLOG : https://jae.chillin.dev/
