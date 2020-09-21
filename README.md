@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Jae
+
 - 🔭 I’m currently working on Icon Creative Studio in Vancouver, Canada.
 - 🌱 I’m currently learning Web development and some other stuffs.
 - 👯 I’m looking to collaborate on developing something!=
@@ -8,3 +9,5 @@
 - 👨🏻‍💻 SKILLSET : Python, Git, HTML, CSS, Vanilla Js
 
 - 🔑 KEYWORDS for interests : Creative coding, Interactive Development and Computational Design
+
+- 📝 BLOG : https://chillinjae.github.io
